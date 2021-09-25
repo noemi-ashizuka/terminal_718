@@ -1,0 +1,37 @@
+pwd
+-> present working directory (where I am)
+ls / ll
+-> every file and directory in the folder
+cd folder_name
+=> moves into that folder
+cd ..
+-> moves back to parent directory
+mkdir folder_name
+-> creates a new folder
+touch filename
+-> creates a new file
+rm filename
+-> deletes a file
+rm -r folder_name
+-> deletes a folder
+rm -rf folder_name
+-> force delete a folder
+mv index.html home.html
+-> rename a file
+mv index.html folder_name
+-> move file to folder
+code . // stt
+-> opens directory in vs code // sublime
+open .
+-> opens dircotry in finder
+
+
+
+
+
+
+
+
+
+
+
